@@ -80,3 +80,11 @@ Aggregate Functions
 Date Functions
 Business Insight Generation
 
+## Dataset
+
+This project uses the BlinkIT Customer Analytics dataset.
+
+Dataset Source:
+(https://www.kaggle.com/datasets/akxiit/blinkit-sales-dataset?select=blinkit_customers.csv)
+
+
